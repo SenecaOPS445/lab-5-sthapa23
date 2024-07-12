@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Author ID: [seneca_id]
+# Author ID:132019217
 
 def read_file_string(file_name):
     # Takes file_name as string for a file name, returns its entire contents as a string
